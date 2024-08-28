@@ -6,4 +6,5 @@ In the All Things Linux discord server the members of the Cotton cult reverse th
 
 # What's All Things Linux?
 Join and find out! https://discord.gg/Linux
-#Special thanks to @StanTheAwesomeMan for improving the code :)
+
+# Special thanks to @StanTheAwesomeMan for improving the code :)
